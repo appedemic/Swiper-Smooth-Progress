@@ -15,7 +15,7 @@
   "main": "dist/idangerous.swiper.progress.js",
   "license": ["GPL", "MIT"],
   "dependencies": {
-    "swiper": "~2.4.2"
+    "swiper": "~2.7"
   },
   "ignore": [
     ".*",
